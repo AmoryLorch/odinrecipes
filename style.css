@@ -1,0 +1,16 @@
+.alert{background-color: rgb(0, 0, 0);
+  color: violet;}
+
+
+div {
+  color: white;
+  background-color: black;
+}
+h1{color: blue;}
+* {
+  color: rgb(17, 0, 255);
+}
+
+.subsection.header{color: tomato;}
+
+.ancestor .contents {color: rgb(185, 185, 185);}
